@@ -1,2 +1,9 @@
 {
+    "name": "cls/funkos_php",
+    "autoload": {
+        "psr-4": {
+            "Cls\\FunkosPhp\\": "src/"
+        }
+    },
+    "require": {}
 }
