@@ -109,11 +109,15 @@ class SessionService
         $_SESSION['lastLoginDate'] = null;
     }
 
-    public function getWelcomeMessage()
+    public function getHomeMessage()
     {
-        return "Listado de Funkos";
+        return "Los mejores del mercado";
     }
 
+    public function getTitle()
+    {
+        return "Funkos Shop - PlayStore";
+    }
     public function getUsername()
     {
         return $_SESSION['username'];

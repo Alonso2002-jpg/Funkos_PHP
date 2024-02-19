@@ -1,0 +1,1 @@
+{"version":1,"defects":{"FunkoServiceTest::testFindById":7},"times":{"FunkoServiceTest::testFindAll":0.003,"FunkoServiceTest::testFindById":0,"FunkoServiceTest::testDeleteById":0,"FunkoServiceTest::testUpdate":0,"FunkoServiceTest::testSave":0}}

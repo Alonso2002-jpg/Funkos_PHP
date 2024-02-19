@@ -29,7 +29,6 @@ class Categoria
         return $this->id;
     }
 
-    // Magic method for get and set
     public function __get($name)
     {
         return $this->$name;
